@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/learn-persons-list/static/css/main.ae0aa742.chunk.css",
+    "main.js": "/learn-persons-list/static/js/main.3f7b63e4.chunk.js",
+    "main.js.map": "/learn-persons-list/static/js/main.3f7b63e4.chunk.js.map",
+    "runtime-main.js": "/learn-persons-list/static/js/runtime-main.e29586b0.js",
+    "runtime-main.js.map": "/learn-persons-list/static/js/runtime-main.e29586b0.js.map",
+    "static/js/2.6767719c.chunk.js": "/learn-persons-list/static/js/2.6767719c.chunk.js",
+    "static/js/2.6767719c.chunk.js.map": "/learn-persons-list/static/js/2.6767719c.chunk.js.map",
+    "index.html": "/learn-persons-list/index.html",
+    "precache-manifest.9730dd1f7d42283f972b78233d9755e2.js": "/learn-persons-list/precache-manifest.9730dd1f7d42283f972b78233d9755e2.js",
+    "service-worker.js": "/learn-persons-list/service-worker.js",
+    "static/css/main.ae0aa742.chunk.css.map": "/learn-persons-list/static/css/main.ae0aa742.chunk.css.map",
+    "static/js/2.6767719c.chunk.js.LICENSE.txt": "/learn-persons-list/static/js/2.6767719c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e29586b0.js",
+    "static/js/2.6767719c.chunk.js",
+    "static/css/main.ae0aa742.chunk.css",
+    "static/js/main.3f7b63e4.chunk.js"
+  ]
+}
